@@ -1,37 +1,66 @@
-## Welcome to GitHub Pages
+##  基础知识
 
-You can use the [editor on GitHub](https://github.com/Bigyellow722/fudaoyuan.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- 辅导员的基本要求
+	- 为什么设置辅导员这个岗位
+	
+	[16号文件-关于进一步加强和改进大学生思想政治教育的意见](./16号文件-关于进一步加强和改进大学生思想政治教育的意见.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+	- 对辅导员团队的要求
 
-### Markdown
+	[24号文件-普通高等学校辅导员队伍建设规定](./24号文件-普通高等学校辅导员队伍建设规定.md)
+	- 辅导员的定位
+		1. 宏观上，国家、社会和党对辅导员的要求
+		2. 微观上，辅导员是思想政治的教育者，班级事务的管理者，学生各项事务的服务者
+		3. 补充：参考《高校辅导员理论与务实》
+	- 教育学、教育心理学知识
+	- 面对90后/00后的大学生，高校辅导员应该具备的素质是什么
+	- 高等学校学生行为准则 教育部教学【2005】5号文件(8条)
+- 学校建设
+	- 在新时期建设和谐校园的基本思路
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 如何解决学生遇到的问题(注：学生发展上遇到的问题)
+	- 作为一名辅导员，当你遇到同学在人际交往方面出现困难，你会如何帮助他/她
+	- 如何看待后进生，如何帮助他们
+	- 如果培养学生的积极性
+- 如何解决学生生活上遇到的问题
+	- 班会策划
+    - 一个宿舍学生因为宿舍空调费的问题上访，作为辅导员你该如何解决
+	- 大学生常见的心理问题有哪些：
+		1. 新生适应期的心理问题
+		2. 人际交往心理问题
+		3. 恋爱心理问题
+		4. 就业压力导致的心理问题
+		5. 经济压力导致的心理问题
+- 学生管理相关问题
+	1. 如何批评学生
+	2. 在工作中你会如何利用党员和学生干部
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+##  国家政策
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+- 国务院出台的解决大学生就业的6项举措
 
-[Link](url) and ![Image](src)
-```
+- 金融危机下，如何帮助弱势学生就业
+	1. 树立信心，可以让已经找到好工作的学长学姐回校介绍经验
+	2. 帮助学生找准自己的定位，拓宽就业面
+	3. 教会他们基本的简历制作和面试技巧
+	4. 鼓励大学生到西部和基层去就业
+	5. 发动社会关系，帮助学生就业
+	6. 帮助学生留意各项招聘信息
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+##  解题思路
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Bigyellow722/fudaoyuan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- 考试中遇到情景题的解题思路：
+	1. 调查研究事情的真相，确定事情的严重程度，具体问题具体分析
+	2. 考虑是否要向上级反映，汇报
 
-### Support or Contact
+- 考试中遇到学生相关问题的解题思路：
+	1. 要以学生为主体考虑问题，思考如何稳定学生情绪，有效与学生交流沟通
+	2. 问题是否具有普遍性，能否利用这个机会加强对其他学生的教育和指导
+	3. 是否需要与家长沟通
+	4. 如果问题比较严重，是否需要请求心理咨询机构专业人员（公安人员，或保卫处，或学校学生会）等外力支持和援助
+    5. 事后如何总结，提高对学生事件(突发事件)的处理能力
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
